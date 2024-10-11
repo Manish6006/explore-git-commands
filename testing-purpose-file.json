@@ -1,0 +1,136 @@
+{
+    "company": {
+      "name": "Tech Innovations",
+      "founded": 2010,
+      "employees": [
+        {
+          "id": 1,
+          "name": "Alice Smith",
+          "position": "CEO",
+          "salary": 120000,
+          "skills": ["leadership", "strategic planning", "communication"],
+          "projects": [
+            {
+              "projectId": 101,
+              "title": "AI Research",
+              "duration": "12 months",
+              "status": "completed"
+            },
+            {
+              "projectId": 102,
+              "title": "Product Development",
+              "duration": "6 months",
+              "status": "ongoing"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Bob Johnson",
+          "position": "CTO",
+          "salary": 115000,
+          "skills": ["software development", "cloud computing", "team management"],
+          "projects": [
+            {
+              "projectId": 103,
+              "title": "Cloud Migration",
+              "duration": "3 months",
+              "status": "completed"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Charlie Brown",
+          "position": "Developer",
+          "salary": 80000,
+          "skills": ["JavaScript", "React", "Node.js"],
+          "projects": [
+            {
+              "projectId": 104,
+              "title": "Web Application",
+              "duration": "8 months",
+              "status": "ongoing"
+            }
+          ]
+        }
+      ],
+      "departments": {
+        "Engineering": {
+          "budget": 500000,
+          "head": "Bob Johnson",
+          "teams": [
+            {
+              "teamName": "Backend Team",
+              "members": 5,
+              "projects": [
+                {
+                  "projectId": 105,
+                  "title": "API Development",
+                  "status": "ongoing"
+                }
+              ]
+            },
+            {
+              "teamName": "Frontend Team",
+              "members": 4,
+              "projects": [
+                {
+                  "projectId": 106,
+                  "title": "User Interface Redesign",
+                  "status": "planned"
+                }
+              ]
+            }
+          ]
+        },
+        "Marketing": {
+          "budget": 300000,
+          "head": "Alice Smith",
+          "teams": [
+            {
+              "teamName": "Content Marketing",
+              "members": 3,
+              "projects": [
+                {
+                  "projectId": 107,
+                  "title": "Social Media Campaign",
+                  "status": "ongoing"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "locations": [
+        {
+          "address": "123 Tech Lane,Silicon Valey, CA",
+          "type": "Headuarters"
+        },
+        {
+          "address": "456 Innovation Blvd, Austin, TX",
+          "type": "BanchOffie"
+        }
+      ],
+      "financials": {
+        "revenue": 2000000,
+        "expenses": 150000,
+        "netProfit": 500000
+      },
+      "partners": [
+        {
+          "partnerId": 2,
+          "name": "Global Tech Cor",
+          "partnershipType": "Strategic",
+          "since": 2015
+        },
+        {
+          "partnerId": 3,
+          "name": "Creative Solutions Inc.",
+          "partnershipType": "Project-based",
+          "since": 2018
+        }
+      ]
+    }
+  }
+  
